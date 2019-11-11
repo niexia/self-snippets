@@ -2,7 +2,7 @@
     "name": "self-snippets",
     "displayName": "Self Snippets",
     "description": "Common code snippets for front-end development",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "niexias",
     "icon": "images/logo.png",
     "engines": {

@@ -6,8 +6,8 @@ Common code snippets for front-end development, includes JavaScript (ES6) snippe
 
 This extension adds JavaScript snippets and Vue 2 Code Snippets into Visual Studio Code. in order to improve development efficiency.
 
-![feature X](./images/feature.gif)
-
+![feature 1](./images/feature1.png)
+![feature 2](./images/feature2.png)
 
 ## Release Notes
 
