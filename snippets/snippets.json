@@ -1,0 +1,29 @@
+{
+  "forEach": {
+    "prefix": "fe",
+    "body": [
+      "${1:array}.forEach(function(item) {",
+      "\t${2:// body}",
+      "});"
+    ],
+    "description": "Code snippet for \"forEach\""
+  },
+  "setTimeout": {
+    "prefix": "st",
+    "body": [
+      "setTimeout(function() {",
+      "\t${0:// body}",
+      "}, ${1:1000});"
+    ],
+    "description": "Code snippet for 'setTimeout'"
+  },
+  "forof": {
+    "prefix": "forof",
+    "body": [
+      "for (let v of ${0:array}) {",
+        "\t${0:// body}",
+      "}"
+    ],
+    "description": "Code snippet for 'for ... of'"
+  }
+}
